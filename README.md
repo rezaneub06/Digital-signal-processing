@@ -2,7 +2,9 @@
 3. Test case 1:
 
 1       test case
+
 2       signal part
+
 -5      lower bound
 5       upper bound
 2       two component
